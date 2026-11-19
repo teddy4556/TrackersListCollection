@@ -34,6 +34,8 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.okade.pro:1337/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -69,8 +71,6 @@ https://open.ftorrent.com:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -142,10 +142,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.lain.moscow:6969/announce
-
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -158,6 +154,10 @@ udp://stairs.lat:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://t1.itrus.su:1212/announce
+
+udp://t2.itrus.su:1212/announce
+
 udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
@@ -168,6 +168,8 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
+udp://tracker.23794.top:6969/announce
+
 udp://tracker.alt.cx:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -177,6 +179,8 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
